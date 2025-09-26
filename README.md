@@ -1,4 +1,4 @@
-# BR.daDashCam 📸
+# 📸 daDashCam と daDashCam Player 
 
 <img width="320" height="320" alt="dashcam" src="https://github.com/user-attachments/assets/6ec1239e-e490-478f-ab1d-e2bfee3fa75e" /> daDashCam
 <img width="320" height="320" alt="dadashcam-player" src="https://github.com/user-attachments/assets/ff7dec7c-682c-4196-9fec-1d217cdc765a" /> daDashCam Player
@@ -10,6 +10,7 @@
 daDashCamは、バックグラウンドで静かに動作する常駐型のアプリケーションです。ユーザーの作業を邪魔することなく、タスクトレイのアイコンから数クリックするだけで、デスクトップ全体の録画や、ヘッドレスブラウザ操作のモニタリングを開始・停止できます。
 再現が難しいバグの記録、ソフトウェアの操作デモ、あるいは個人的な作業手順の備忘録として、さまざまなシーンであなたの「目」となります。
 
+このリポジトリでは、画面をモニタリング・録画する `daDashCam` と、録画した動画を再生する `daDashCam Player` の2つのソフトウェアを配布します。
 
 ## 主な特徴 / Features
 
@@ -43,14 +44,26 @@ daDashCamは、バックグラウンドで静かに動作する常駐型のア�
 最新バージョンは、[リリースページ](https://github.com/1010-junji/BR.daDashCam/releases))からダウンロードできます。
 インストーラー版 (`.exe`)と、解凍するだけですぐに使えるポータブル版 (`.zip`)を用意しています。
 
+`daDashCam` と `daDashCam Player` を見間違えないようお気を付けください。
+
 ## クイックスタート / Quick Start
 
+### daDashCam
 1.  アプリケーションを起動します。
 2.  タスクトレイに表示された`daDashCam`のアイコンを右クリックします。
 3.  `[デスクトップ録画の開始]` をクリックすると、録画が始まります。
 4.  もう一度アイコンを右クリックし、`[デスクトップ録画の停止]` をクリックすると録画が終了し、動画ファイルが保存されます。
 
-詳細な使い方はリリースページ内に同梱された**[ユーザーマニュアル**をご覧ください。
+### daDashCam Player
+1.  アプリケーションを起動します。
+2.  動画を選択ボタンをクリックし、動画ファイルを選択します。
+3.  録画した動画と対応するリソースモニタリング情報が読み込まれ、動画が再生可能になります。
+
+    <img width="650" height="630" alt="capture_2025-9-22_16-02-53" src="https://github.com/user-attachments/assets/99d07487-b859-416c-ab4a-8ff0141be28a" />
+
+
+  
+詳細な使い方はリリースページ内に同梱された **ユーザーマニュアル** をご覧ください。
 
 ## コントリビュート / Contributing
 
