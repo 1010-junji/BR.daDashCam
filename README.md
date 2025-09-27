@@ -11,6 +11,9 @@ daDashCamは、バックグラウンドで静かに動作する常駐型のア�
 
 このリポジトリでは、画面をモニタリング・録画する `daDashCam` のソフトウェアを配布します。
 
+
+![Animation3](https://github.com/user-attachments/assets/8152bfdd-3562-4e3b-882c-06fe29cbace1)
+
 ## 主な特徴 / Features
 
 -   **🕊️ 軽量＆シンプル (Lightweight & Simple)**
