@@ -43,8 +43,6 @@ daDashCamは、バックグラウンドで静かに動作する常駐型のア�
 最新バージョンは、[リリースページ](https://github.com/1010-junji/BR.daDashCam/releases))からダウンロードできます。
 インストーラー版 (`.exe`)と、解凍するだけですぐに使えるポータブル版 (`.zip`)を用意しています。
 
-`daDashCam` と `daDashCam Player` を見間違えないようお気を付けください。
-
 ## クイックスタート / Quick Start
 
 1.  アプリケーションを起動します。
